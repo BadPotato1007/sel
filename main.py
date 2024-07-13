@@ -14,7 +14,7 @@ chrome_options.add_argument('--incognito')
 chrome_options.add_extension('./chromium_automation/chromium_automation.crx')
 
 
-user = "Priya Rao priyarao88"
+user = "neerav gupta neeravgupta07"
 x  = user.split()
 
 mail = x[2]
